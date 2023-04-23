@@ -1,0 +1,73 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url("images/boxing-jpg1.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1174px;
+}
+
+.u-section-1 .u-text-1 {
+  margin-bottom: 0;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 38px 0 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 1rem;
+  margin: 47px 0 0;
+}
+
+.u-section-1 .u-text-4 {
+  margin: 85px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  font-size: 1.125rem;
+  padding: 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 708px;
+  height: 480px;
+  margin: 104px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 968px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 741px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 415px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 366px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 295px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 230px;
+  }
+}

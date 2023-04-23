@@ -1,0 +1,116 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url("images/nogomet-jpeg.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1614px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  margin: 20px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 28px 0 0;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 45px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  font-size: 1.125rem;
+  padding: 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 643px;
+  height: 396px;
+  margin: 80px auto 0;
+}
+
+.u-section-1 .u-text-4 {
+  margin: 83px 0 0;
+}
+
+.u-section-1 .u-video-1 {
+  width: 725px;
+  height: 408px;
+  margin: 100px auto 60px;
+}
+
+.u-section-1 .embed-responsive-1 {
+  position: absolute;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1331px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 117px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1016px;
+  }
+
+  .u-section-1 .u-video-1 {
+    width: 720px;
+    height: 405px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 852px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 20px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 333px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: 41px;
+  }
+
+  .u-section-1 .u-video-1 {
+    width: 540px;
+    height: 304px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 616px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 210px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: 169px;
+  }
+
+  .u-section-1 .u-video-1 {
+    width: 340px;
+    height: 191px;
+  }
+}
